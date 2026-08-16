@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick 
 
 📍 **Nashville** | 🤖 **AI systems builder** | 🚀 **Founder of [Epiphany Dynamics](https://epiphanydynamics.ai)**
 
